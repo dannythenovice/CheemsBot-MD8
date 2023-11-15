@@ -30,7 +30,7 @@ global.location = "ghana, ghana, nigeria" //ur location
 
 //new
 global.botname = "💔𝙽𝙾 𝙻𝙾𝚅𝙴 𝙱𝙾𝚃💔"
-global.ownernumber = '‪‬916909137213'
+global.ownernumber = '‪‬233246274343'
 global.ownername = '💔𝚀𝚄𝙴𝙴𝙽𝚉𝚈 𝙶𝙴𝙴💔'
 global.ownerNumber = ["233202554557@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
