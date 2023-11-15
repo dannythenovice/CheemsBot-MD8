@@ -3,8 +3,8 @@ const fs = require("fs")
 
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = false //auto kick spammer (true to on, false to off)
 
@@ -21,26 +21,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.owner = ['233246274343'] //ur owner number
+global.ownernomer = "233202554557" //ur owner number2
+global.ownername = "💔𝚀𝚄𝙴𝙴𝙽𝚉𝚈 𝙶𝙴𝙴💔" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "ghana, ghana, nigeria" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.botname = "💔𝙽𝙾 𝙻𝙾𝚅𝙴 𝙱𝙾𝚃💔"
+global.ownernumber = '‪233246274343‬'
+global.ownername = '💔𝚀𝚄𝙴𝙴𝙽𝚉𝚈 𝙶𝙴𝙴💔'
+global.ownerNumber = ["233202554557@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
+global.wagc = "https://chat.whatsapp.com/CdLqFVzykRK7mn0EGEdzJl"
+global.themeemoji = '💔'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
+global.author = "💔𝙽𝙾 𝙻𝙾𝚅𝙴💔\n\n"
 global.creator = "916909137213@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
